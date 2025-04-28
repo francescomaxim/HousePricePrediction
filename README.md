@@ -43,11 +43,11 @@ pip install numpy pandas matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/francescomaxim/HousePricePrediction)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd house-price-prediction
+   cd HousePricePrediction
    ```
 3. Open the Jupyter Notebook:
    ```bash
