@@ -43,7 +43,7 @@ pip install numpy pandas matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/francescomaxim/HousePricePrediction
+   git clone https://github.com/francescomaxim/HousePricePrediction.git
    ```
 2. Navigate to the project directory:
    ```bash
